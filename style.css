@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: rgb(61, 111, 205);
+    color: white;
+    text-align: center;
+    width: 300px;
+    margin: 10px auto 40px auto;
+    padding: 10px 5px;
+}
+
+ul {
+    display: inline;
+    margin: 540px;
+}
+
+li {
+    display: inline;
+    font-size: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    margin: 5px 10px;
+}
